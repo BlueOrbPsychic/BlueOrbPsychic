@@ -1,5 +1,5 @@
-# Welcome to BlueOrbPsychic's Edge of Space 🌌
-## Hello, World! 🌟
+
+# Hello, World! 🌟
 
 I'm **BlueOrbPsychic**, and I'm thrilled to share a bit about myself with you. I'm passionate about:
 
